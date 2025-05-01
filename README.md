@@ -32,9 +32,17 @@ The project uses de novo transcriptome assemblies, ORF prediction, functional an
 
 ## 🧪 Requirements
 
+All tools can be installed with Conda using the included `environment.yml`:
+
+```bash
+conda env create -f environment.yml
+conda activate comparative_transcriptomics
+```
+
+### Required Tools:
 - `sra-tools`, `Trimmomatic`, `FastQC`, `Trinity`, `CD-HIT`
-- `TransDecoder`, `Getorf` `(EMBOSS)`, `DIAMOND`, `HMMER`, `InterProScan`
-- `OrthoFinder`, `ParaAT`, `KaKs_Calculator`, `IQ-TREE`, `BEAST`, `RASP`, `MAFFT`,`FIGTREE`,
+- `TransDecoder`, `Getorf (EMBOSS)`, `DIAMOND`, `HMMER`, `InterProScan`
+- `OrthoFinder`, `ParaAT`, `KaKs_Calculator`, `IQ-TREE`, `BEAST`, `RASP`, `MAFFT`, `FigTree`
 
 ---
 
@@ -42,7 +50,9 @@ The project uses de novo transcriptome assemblies, ORF prediction, functional an
 
 If you use these scripts, please cite:
 
-> Belintani et al. 2023. *Comparative transcriptomics  of Mepraia species*. (in prep.)
+> Belintani et al. 2023. *Comparative transcriptomics of Mepraia species*. (in prep.)
+
+You can also find a full list of software citations in the file [`CITATIONS.md`](./CITATIONS.md).
 
 ---
 
@@ -51,3 +61,4 @@ If you use these scripts, please cite:
 For questions or collaborations, contact:  
 **Tiago Belintani**  
 `tiagobelintani@unesp.br`
+
