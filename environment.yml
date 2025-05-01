@@ -1,4 +1,4 @@
-name: mepraia_pipeline
+name: comparative_transcritomics
 channels:
   - conda-forge
   - bioconda
