@@ -3,7 +3,7 @@
 mkdir -p ../data/trimmed ../data/qc_reports
 for f in ../data/raw_reads/*_1.fastq.gz; do
     base=$(basename $f _1.fastq.gz)
-    trimmomatic PE -threads 4 \
+    trimmomatic PE -threads 20 -phred33 \
         ../data/raw_reads/${base}_1.fastq.gz ../data/raw_reads/${base}_2.fastq.gz \
         ../data/trimmed/${base}_1_paired.fq.gz ../data/trimmed/${base}_1_unpaired.fq.gz \
         ../data/trimmed/${base}_2_paired.fq.gz ../data/trimmed/${base}_2_unpaired.fq.gz \
