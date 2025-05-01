@@ -1,5 +1,3 @@
-📚 Referências completas
-🔹 Montagem e Anotação
 Trimmomatic:
 Bolger AM, Lohse M, Usadel B (2014) Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics, 30(15), 2114–2120. https://doi.org/10.1093/bioinformatics/btu170
 
@@ -18,7 +16,7 @@ Haas BJ et al. (2013) De novo transcript sequence reconstruction from RNA-seq us
 EMBOSS/Getorf:
 Rice P, Longden I, Bleasby A (2000) EMBOSS: The European Molecular Biology Open Software Suite. Trends in Genetics, 16(6), 276–277. https://doi.org/10.1016/S0168-9525(00)02024-2
 
-🔹 Anotação Funcional
+
 DIAMOND:
 Buchfink B, Xie C, Huson DH (2015) Fast and sensitive protein alignment using DIAMOND. Nature Methods, 12, 59–60. https://doi.org/10.1038/nmeth.3176
 
@@ -40,7 +38,7 @@ Ge SX, Jung D, Yao R (2020) ShinyGO: a graphical gene-set enrichment tool for an
 WEGO 2.0:
 Ye J et al. (2018) WEGO 2.0: A web tool for analyzing and plotting GO annotations. Nucleic Acids Research, 46(W1), W71–W75. https://doi.org/10.1093/nar/gky400
 
-🔹 Ortologia e Ka/Ks
+
 OrthoFinder:
 Emms DM, Kelly S (2019) OrthoFinder: phylogenetic orthology inference for comparative genomics. Genome Biology, 20, 238. https://doi.org/10.1186/s13059-019-1832-y
 
@@ -53,7 +51,7 @@ Wang D et al. (2010) KaKs_Calculator 2.0: A toolkit incorporating gamma-series m
 Anisimova+:
 Anisimova M, Bielawski JP, Yang Z (2001) Accuracy and power of the likelihood ratio test in detecting adaptive molecular evolution. Molecular Biology and Evolution, 18(8), 1585–1592. https://doi.org/10.1093/oxfordjournals.molbev.a003945
 
-🔹 Filogenia e Reconstrução de Áreas
+
 MAFFT:
 Katoh K, Standley DM (2013) MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Molecular Biology and Evolution, 30(4), 772–780. https://doi.org/10.1093/molbev/mst010
 
