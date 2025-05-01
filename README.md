@@ -50,7 +50,7 @@ conda activate comparative_transcriptomics
 
 If you use these scripts, please cite:
 
-> Belintani et al. 2023. *Comparative transcriptomics of Mepraia species*. (in prep.)
+> Belintani T. Comparative Transcriptomics in Triatominae [Internet]. GitHub; 2025 [cited 2025 Apr 30]. Available from: https://github.com/TiagoBelintani/Comparative_Transcriptomics_Triatominae
 
 You can also find a full list of software citations in the file [`CITATIONS.md`](./CITATIONS.md).
 
@@ -60,5 +60,6 @@ You can also find a full list of software citations in the file [`CITATIONS.md`]
 
 For questions or collaborations, contact:  
 **Tiago Belintani**  
-`tiagobelintani@unesp.br`
+`tiagobellintani@gmail.com.`
+`[tiagobelintani.https://tiagobelintani.github.io/](https://tiagobelintani.github.io/)`
 
