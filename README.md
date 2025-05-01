@@ -1,4 +1,4 @@
-# 🧬 Comparative Transcriptomics in *Mepraia* Species
+#  Comparative Transcriptomics in *Mepraia* Species
 
 This repository contains the scripts and workflow used to perform a comparative transcriptomics study across three species of *Mepraia* (Hemiptera: Reduviidae), with the goal of exploring gene family dynamics, substitution rates, and evolutionary patterns.
 
@@ -6,7 +6,7 @@ This repository contains the scripts and workflow used to perform a comparative 
 
 The project uses de novo transcriptome assemblies, ORF prediction, functional annotation, orthology inference, and phylogenetic reconstruction based on RNA-Seq data.
 
-### 🔧 Step-by-step scripts:
+###  Step-by-step scripts:
 
 | Script | Description |
 |--------|-------------|
@@ -23,14 +23,14 @@ The project uses de novo transcriptome assemblies, ORF prediction, functional an
 
 ---
 
-## 📦 Input Data
+## Input Data
 
 - 18 RNA-seq libraries from the heads and salivary glands of *Mepraia spinolai*, *M. gajardoi*, and *M. parapatrica*.
 - NCBI BioProject: [PRJNA916468](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA916468)
 
 ---
 
-## 🧪 Requirements
+##  Requirements
 
 All tools can be installed with Conda using the included `environment.yml`:
 
@@ -46,7 +46,7 @@ conda activate comparative_transcriptomics
 
 ---
 
-## 🧾 Citation
+##  Citation
 
 If you use these scripts, please cite:
 
@@ -56,7 +56,7 @@ You can also find a full list of software citations in the file [`CITATIONS.md`]
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or collaborations, contact:  
 **Tiago Belintani**  
