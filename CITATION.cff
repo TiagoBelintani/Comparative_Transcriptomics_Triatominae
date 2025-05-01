@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Comparative Transcriptomics in Triatominae"
+version: "1.0"
+date-released: 2025-04-30
+authors:
+  - family-names: Belintani
+    given-names: Tiago
+    email: tiagobellintani@gmail.com
+    orcid: "https://orcid.org/0000-0001-9485-1145"  # substitua pelo seu ORCID se tiver
+repository-code: https://github.com/TiagoBelintani/Comparative_Transcriptomics_Triatominae
+url: https://tiagobelintani.github.io/
+
