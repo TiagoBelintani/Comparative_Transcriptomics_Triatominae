@@ -3,10 +3,6 @@
 
 # Assumes prior TransDecoder, BLASTP, and HMMER steps have been completed
 
-# . Notes for downstream analysis
-cat <<EOL > "$BASE_DIR/go_annotation/${SPECIES}/README_annotation.txt"
-# Instructions for online analysis
-
 ## Blast2GO
 - Input: ${SPECIES}.pep or .cds + blastp.outfmt6 + ${SPECIES}.domblout
 - Upload to Blast2GO (if you have access to the local or cloud version)
@@ -24,8 +20,3 @@ cat <<EOL > "$BASE_DIR/go_annotation/${SPECIES}/README_annotation.txt"
 - Input: ${SPECIES}.pep file (FASTA format)
 - Select "Multiple species comparison" and upload all target proteomes
 - Outputs: shared clusters, Venn diagrams, gene family IDs
-EOL
-
-# 4. Completion message
-echo "Annotation input files prepared for $SPECIES. Upload to web tools as instructed in README_annotation.txt."
-
