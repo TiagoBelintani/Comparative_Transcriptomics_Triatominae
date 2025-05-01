@@ -1,0 +1,21 @@
+name: mepraia_pipeline
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - trimmomatic
+  - fastqc
+  - trinity
+  - cd-hit
+  - transdecoder
+  - emboss
+  - mafft
+  - iqtree
+  - orthofinder
+  - diamond
+  - hmmer
+  - interproscan
+  - pandas
+  - numpy
+  - biopython
