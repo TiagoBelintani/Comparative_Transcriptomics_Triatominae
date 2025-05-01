@@ -61,5 +61,5 @@ You can also find a full list of software citations in the file [`CITATIONS.md`]
 For questions or collaborations, contact:  
 **Tiago Belintani**  
 `tiagobellintani@gmail.com.`
-`[tiagobelintani.https://tiagobelintani.github.io/](https://tiagobelintani.github.io/)`
+`[github](https://tiagobelintani.github.io/)`
 
